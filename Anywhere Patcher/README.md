@@ -1,4 +1,4 @@
-<img src="https://github.com/SevenworksDev/SevenworksWSC/assets/91027492/361830cf-7548-493a-9f19-e1c59c3d8c56">
+<img width="600px" src="https://github.com/SevenworksDev/SevenworksWSC/assets/91027492/361830cf-7548-493a-9f19-e1c59c3d8c56">
 <h3>0000005f.app Locations</h3>
 <code>title/00010002/48414241/content - For Homebrew Users</code><br><br>
 <code>%AppData%\Dolphin Emulator\Wii\title\00010002\48414241\content - For Dolphin users</code>
